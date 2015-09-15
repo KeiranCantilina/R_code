@@ -1,0 +1,7 @@
+,Chamber,Treatment,Mass_flux_linear,Mass_flux_quadratic
+1,1,Leach_field,-0.167415409,-0.195766027
+2,2,Leach_field,0.009540788,-0.365634729
+3,3,Leach_field,0.145556542,-0.222084937
+4,4,Control,0.011165437,-0.315273807
+5,5,Control,-0.070838293,-0.390516309
+6,6,Control,0.080400154,0.160451155
